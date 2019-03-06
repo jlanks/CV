@@ -1,27 +1,30 @@
 body {
-  background-color: #222831;
+  background-color: #f2efb6;
 }
 
 h1 {
-  color: #66BFBF
+  color: #074684;
+  font-style: italic;
+
 }
 
 h2 {
-  color: #66BFBF
+  color: #074684;
 }
 
 h3 {
-  color: #66BFBF
+  color: #074684;
 }
 
 p {
-  color: #b55400
+  color: #0ea5c6;
+}
+li{
+  color: #0ea5c6
 }
 
 hr {
-  border-color: #b55400;
-
-  
+  border-color: #a0edf7;
 
 }
 
