@@ -1,2 +1,2 @@
-# CV
-Curriculum vitae, a shortish account of my career and qualifications. 
+# Curriculum vitae, a shortish account of my career and qualifications. 
+
