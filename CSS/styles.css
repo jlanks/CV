@@ -1,3 +1,4 @@
+/***************** TAG SELCTORS **************/
 body {
   background-color: #f2efb6;
 }
@@ -8,7 +9,8 @@ h1 {
 
 }
 
-h2 {
+
+h2{
   color: #074684;
 }
 
@@ -27,7 +29,36 @@ hr {
   border-color: #a0edf7;
 
 }
+ img{
+     height: 250px;
+ }
+img:hover {
+  background-color: gold ;
 
-img {
-  height: 100px;
+
+}
+
+
+/********************* CLASS SELECTORS (Multiple uses)*********************/
+
+.curry {
+
+  background-color: grey ;
+  height: 70px;
+}
+
+.Profile{
+
+  background-position: left;
+}
+ .circular{
+
+   border-radius: 100%;
+ }
+/******** ID SELECTORS (One time use)**********/
+
+#heading {
+
+color: blue;
+
 }
